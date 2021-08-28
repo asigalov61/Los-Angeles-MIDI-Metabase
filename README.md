@@ -4,6 +4,8 @@
 
 ### https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
 
+#### NOTE: Metabase structure reference chart and complete description will be added shortly. Please stand-by...
+
 <img width="512" src="https://github.com/asigalov61/Los-Angeles-MIDI-Metabase/raw/main/Artwork/Interconnected_Infinite_Meta_Music_Universe.jpg">
 
 ### Project Los Angeles
