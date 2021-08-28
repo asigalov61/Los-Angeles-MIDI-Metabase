@@ -6,4 +6,8 @@
 
 <img width="512" src="https://github.com/asigalov61/Los-Angeles-MIDI-Metabase/raw/main/Artwork/Interconnected_Infinite_Meta_Music_Universe.jpg">
 
+### Project Los Angeles
+
+### Tegridy Code 2021
+
 
