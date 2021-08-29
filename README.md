@@ -24,6 +24,17 @@
 ```
 ***
 
+```bibTex
+@inproceedings{sigalov2021losangelesmididataset,
+    title       = {Los Angeles MIDI Dataset: SOTA MIDI Dataset for MIR and Music AI Purposes},
+    author      = {Aleksandr Sigalov},
+    booktitle   = {GitHub},
+    year        = {2021},
+    url         = {https://github.com/asigalov61/Los-Angeles-MIDI-Dataset}
+}
+```
+***
+
 ### Project Los Angeles
 
 ### Tegridy Code 2021
