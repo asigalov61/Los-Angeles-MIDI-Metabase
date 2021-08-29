@@ -9,7 +9,7 @@
 ***
 
 ## Los Angeles MIDI Metabase Structure Reference Chart:
-
+'''
 ### [HEADER, total_entries, ALL_DATA]
 
 ### ALL_DATA = [info_all, stats_all, detailed_stats, file_stats, samples_pairs]
@@ -21,7 +21,7 @@
 ### samples_pairs = [output0, output]
 
 ### fingerprints = [fingerprint0, fingerprint1]
-
+'''
 ***
 
 ### Project Los Angeles
