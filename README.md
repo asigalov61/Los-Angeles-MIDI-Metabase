@@ -1,6 +1,6 @@
 # Los Angeles MIDI Metabase
-## Complete meta-information database for the Los Angeles MIDI dataset
-### https://github.com/asigalov61/Los-Angeles-MIDI-Dataset
+## Complete meta-information database for the [Los Angeles MIDI dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
+
 [![Open In Colab][colab-badge]][colab-notebook]
 
 [colab-notebook]: <https://colab.research.google.com/github/asigalov61/Los-Angeles-MIDI-Metabase/blob/main/LAMB_Explorer_and_Tutorial.ipynb>
