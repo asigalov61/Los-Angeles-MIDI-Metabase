@@ -1,6 +1,6 @@
 # Los Angeles MIDI Metabase (LAMB)
-
-### A Kilo-Scale MIDI MIR Meta Database
+## A Kilo-Scale MIDI MIR Meta Database
+### KNOW YOUR DATASET !!!
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
