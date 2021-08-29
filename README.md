@@ -25,12 +25,12 @@
 ***
 
 ```bibTex
-@inproceedings{sigalov2021losangelesmididataset,
-    title       = {Los Angeles MIDI Dataset: SOTA MIDI Dataset for MIR and Music AI Purposes},
+@inproceedings{sigalov2021losangelesmidimetabase,
+    title       = {Los Angeles MIDI Metabase: Kilo-Scale MIDI MIR Meta Database},
     author      = {Aleksandr Sigalov},
     booktitle   = {GitHub},
     year        = {2021},
-    url         = {https://github.com/asigalov61/Los-Angeles-MIDI-Dataset}
+    url         = {https://github.com/asigalov61/Los-Angeles-MIDI-Metabase}
 }
 ```
 ***
