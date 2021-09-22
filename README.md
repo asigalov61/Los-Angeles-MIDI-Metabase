@@ -9,8 +9,6 @@
 
 ### LAMB consists of Complete meta-information database for the [Los Angeles MIDI dataset](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
 
-<img width="512" src="https://github.com/asigalov61/Los-Angeles-MIDI-Metabase/raw/main/Artwork/Interconnected_Infinite_Meta_Music_Universe.jpg">
-
 ***
 
 ## Los Angeles MIDI Metabase Structure Reference Chart:
@@ -32,7 +30,7 @@
 ```bibTex
 @inproceedings{sigalov2021losangelesmidimetabase,
     title       = {Los Angeles MIDI Metabase: Kilo-Scale MIDI MIR Meta Database},
-    author      = {Aleksandr Sigalov},
+    author      = {Aleksandr Lev},
     booktitle   = {GitHub},
     year        = {2021},
     url         = {https://github.com/asigalov61/Los-Angeles-MIDI-Metabase}
