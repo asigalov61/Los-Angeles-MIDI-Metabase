@@ -28,7 +28,7 @@
 ***
 
 ```bibTex
-@inproceedings{sigalov2021losangelesmidimetabase,
+@inproceedings{levv2021losangelesmidimetabase,
     title       = {Los Angeles MIDI Metabase: Kilo-Scale MIDI MIR Meta Database},
     author      = {Aleksandr Lev},
     booktitle   = {GitHub},
